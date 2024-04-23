@@ -1,0 +1,56 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+h1{
+  margin-bottom: 20px;
+
+}
+.Input-add{
+  text-align: center;
+}
+input{
+  margin-right: 5px;
+  border: none;
+  border-radius: 5px;
+  width: 495px;
+  height: 30px;
+  font-size: 15px;
+  padding-left: 5px;
+}
+button{
+  background-color: green;
+  color: white;
+  width: 100px;
+  border: none;
+  border-radius: 5px;
+  height: 30px;
+  font-size: 15px;
+
+}
+.container{
+  background-color: aqua;
+  padding: 50px;
+  text-align: center;
+  height: auto;
+  min-height: 100vh;
+}
+.All-DataBlog{
+  text-align: center;
+  padding: 10px;
+  border-radius: 7px;
+  margin: auto;
+  margin-top: 10px;
+  background-color: antiquewhite;
+  width: 600px;
+}
+.img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  background-color: aliceblue;
+  height: 260px;
+  margin-top: 10px;
+}
